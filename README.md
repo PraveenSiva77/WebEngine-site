@@ -1,12 +1,117 @@
-# React + Vite
+# WebEngine - Fast & Scalable Website Development
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WebEngine empowers marketing teams to break free from website bottlenecks with a composable approach built for speed and scale. We craft fast, scalable sites for teams of all sizes.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Fast Development**: Built with React + Vite for lightning-fast development experience
+- **Modern Styling**: Tailwind CSS for rapid UI development
+- **Responsive Design**: Mobile-first approach with beautiful responsive layouts
+- **Performance Optimized**: Optimized for speed and scalability
+- **Component-Based**: Modular architecture for easy maintenance and updates
 
-## Expanding the ESLint configuration
+## 📊 Stats
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ 500+ Websites Built
+- ✅ 98% Client Satisfaction
+- ✅ 3x Faster Delivery
+- ✅ Trusted by 500+ companies
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, JavaScript
+- **Build Tool**: Vite 5.4
+- **Styling**: Tailwind CSS 4.1
+- **Linting**: ESLint with React hooks support
+- **Development**: Hot Module Replacement (HMR)
+
+## 🏗️ Project Structure
+
+```text
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── HeroSection.jsx
+│   ├── TrustedBrands.jsx
+│   ├── FeaturesSection.jsx
+│   ├── IndustrySection.jsx
+│   ├── ClientStories.jsx
+│   ├── BlogSection.jsx
+│   ├── CallToAction.jsx
+│   └── Footer.jsx
+├── assets/
+│   └── Screenshot.jpg
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (version 16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd webengine
+```
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+1. Start the development server:
+
+```bash
+npm run dev
+```
+
+1. Open your browser and navigate to `http://localhost:5173`
+
+## 📜 Available Scripts
+
+- `npm run dev` - Start development server with hot reload
+- `npm run build` - Build the project for production
+- `npm run preview` - Preview the production build locally
+- `npm run lint` - Run ESLint to check code quality
+
+## 🎨 Components Overview
+
+- **Header**: Navigation and branding
+- **HeroSection**: Main landing section with call-to-action
+- **TrustedBrands**: Showcase of client logos
+- **FeaturesSection**: Key features and benefits
+- **IndustrySection**: Industry-specific solutions
+- **ClientStories**: Testimonials and case studies
+- **BlogSection**: Latest articles and insights
+- **CallToAction**: Contact and engagement section
+- **Footer**: Site footer with links and information
+
+## 🔧 Development
+
+This project uses:
+
+- **Vite** for fast development and building
+- **React 19** with modern hooks and features
+- **Tailwind CSS** for utility-first styling
+- **ESLint** for code quality and consistency
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+## 🤝 Contributing
+
+This is a personal project by Praveenkumar. For questions or suggestions, please feel free to reach out.
+
+---
+
+Built with ❤️ by Praveenkumar
